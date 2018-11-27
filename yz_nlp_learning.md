@@ -6,3 +6,6 @@
 - lambda 匿名函数
 - map() / filter() / reduce()
 - sort() / sorted()
+
+## 2018.11.25
+- enumerate()
